@@ -1,0 +1,29 @@
+Altere o exercício 2 para que os número 10 e 5 estejam em variáveis
+
+Construa um algoritmo que tenha uma variavel nascimento e apresente na tela quantos anos a pessoa fará em 2020 (desconsidere o mês de aniversário)
+
+programa
+{
+	
+	funcao inicio()
+	{
+		// declarou a variavel
+		inteiro nascimento, idade
+
+		//atribuimos um valor a variavel
+		nascimento = 1985
+
+		//calculando idade
+		idade = 2020 - nascimento
+
+		//mostrar a idade na tela
+		escreva ("Sua idade será:", idade)
+
+		// + soma
+		// - subtração
+		// * mutiplicação
+		// / divisão
+		
+		
+	}
+}
